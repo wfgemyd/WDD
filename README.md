@@ -1,5 +1,7 @@
 # WDD
-Building a web site for the Ica
-Name: Daniel Shutov
-Semester:2201
-class: WDD
+Module: Web Design and Development (FT/BL) |
+Programme: BSc (Hons) Computing |
+Name: Daniel Shutov |
+Semester:2201 |
+Class: WDD |
+Teacher: David Petryca
